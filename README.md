@@ -2,7 +2,7 @@
   Chip Design Week – 5
   
 Recall :- 
-
+ 
 ![image](https://github.com/user-attachments/assets/433121f1-9bec-484b-b30f-052b74f2daa8)
 
 We have also learned about Commutative and Distributive
